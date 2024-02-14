@@ -18,7 +18,7 @@ Several SAFe certifications cater to various agile roles. They include:
 - SAFe POPM certification – Centered on delivering value, managing backlogs
 - SPC certification 
 - SAFe RTE certification– Leading the execution of agile release trains
-- SAFe Agile certification – Applying SAFe to build solutions in enterprise contexts 
+- <p><a https://www.leanwisdom.com/agile/safe-agilist-certification-training">SAFe Agile Certification</a></p> – Applying SAFe to build solutions in enterprise contexts 
 
 Certification helps internalize SAFe principles. It also equips professionals with tactics to continue improving business value delivery.
 
