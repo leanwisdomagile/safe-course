@@ -1,4 +1,3 @@
-Here is some sample content on upskilling in SAFe and Scrum certifications:
 
 Scaled Agile Framework (SAFe) and Scrum are popular agile frameworks that help organizations adapt an agile mindset. They provide structured yet flexible approaches for delivering products effectively. Getting certified in these frameworks signals an understanding of agile principles and competence in implementation.  
 
