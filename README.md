@@ -13,11 +13,11 @@ SAFe and Scrum certifications make professionals more valuable in the job market
 SAFe Certifications 
 Several SAFe certifications cater to various agile roles. They include:  
 
-- SAFe Scrum Master certification – Focuses on servant leadership, coach-team execution  
-- SAFe Advanced Scrum Master certification – Builds on previous certification to scale skills  
-- SAFe POPM certification – Centered on delivering value, managing backlogs
-- SPC certification 
-- SAFe RTE certification– Leading the execution of agile release trains
+- [SAFe Scrum Master certification](https://www.leanwisdom.com/agile/safe-scrum-master-ssm-certification) – Focuses on servant leadership, coach-team execution  
+- [SAFe Advanced Scrum Master certification](https://www.leanwisdom.com/agile/safe-advanced-scrum-master-sasm-certification) – Builds on previous certification to scale skills  
+- [SAFe POPM certification](https://www.leanwisdom.com/agile/safe-popm-certification-training) – Centered on delivering value, managing backlogs
+- [SPC certification](https://www.leanwisdom.com/agile/safe-program-consultant-spc-certification)
+- [SAFe RTE certification](https://www.leanwisdom.com/agile/safe-release-train-engineer-rte-training)– Leading the execution of agile release trains
 - [SAFe Agile Certification](https://www.leanwisdom.com/agile/safe-agilist-certification-training) – Applying SAFe to build solutions in enterprise contexts 
 
 Certification helps internalize SAFe principles. It also equips professionals with tactics to continue improving business value delivery.
